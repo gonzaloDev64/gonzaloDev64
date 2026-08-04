@@ -25,7 +25,7 @@ Profesional con formación técnica en Sistemas Informáticos, especializado en 
   <img src="https://github-readme-stats.vercel.app/api?username=gonzaloDev64&theme=flat&hide_border=false" alt="gonzaloDev64 GitHub Stats" />
 </p>
 
-### Contribuciones
+### Contribuciones 
 
 <p align="center">
   <picture>
@@ -34,6 +34,7 @@ Profesional con formación técnica en Sistemas Informáticos, especializado en 
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/gonzaloDev64/gonzaloDev64/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 
 ### Contacto Profesional
 
