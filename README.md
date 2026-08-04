@@ -1,4 +1,4 @@
-# Gonzalo Javier Chipana Tantani 👋
+# Gonzalo Javier Chipana Tantani 
 
 ### Técnico Superior en Sistemas Informáticos
 
