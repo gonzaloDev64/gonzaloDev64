@@ -22,7 +22,7 @@ Profesional con formación técnica en Sistemas Informáticos, especializado en 
 ### Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gonzaloDev64&show_icons=true&theme=flat&hide_border=false&count_private=true" alt="gonzaloDev64 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gonzaloDev64&theme=flat&hide_border=false" alt="gonzaloDev64 GitHub Stats" />
 </p>
 
 ### Contacto Profesional
